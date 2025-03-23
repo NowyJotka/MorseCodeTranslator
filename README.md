@@ -20,6 +20,7 @@ A simple and easy-to-use tool that translates Morse code to English text and vic
 git clone https://github.com/NowyJotka/MorseCodeTranslator.git
 cd morse-code-translator
 ```
+Or simply just copy the code
 
 
 ## Usage
@@ -48,7 +49,7 @@ Input:
 ```
 Output:
 ```
-Hello World
+hello world
 ```
 
 ---
