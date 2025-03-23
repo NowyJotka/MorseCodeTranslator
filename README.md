@@ -1,4 +1,4 @@
-# Morse Code Translator
+# Morse Code Translator 🇬🇧
 
 A simple and easy-to-use tool that translates Morse code to English text and vice versa. Ideal for developers, hobbyists, and anyone interested in Morse code.
 
@@ -76,3 +76,70 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+# Traductor de Código Morse 🇪🇸
+
+Una herramienta simple y fácil de usar que traduce código Morse a texto en inglés y viceversa. Ideal para desarrolladores, aficionados y cualquier persona interesada en el código Morse.
+
+---
+
+## Características
+
+- **Traducción bidireccional**: Convierte texto a código Morse o código Morse a texto.
+- **Personalizable**: Soporta la personalización de los símbolos del código Morse.
+- **Multiplataforma**: Funciona en todas las principales plataformas.
+- **Interfaz simple**: Interfaz fácil de usar para traducciones rápidas.
+
+---
+
+## Instalación
+
+### Clonar el Repositorio
+```bash
+git clone https://github.com/NowyJotka/MorseCodeTranslator.git
+cd morse-code-translator
+```
+
+O simplemente copia el código.
+
+## Uso
+
+Ejecuta el script desde la línea de comandos:
+```bash
+python morse.py
+```
+### Ejemplo
+
+#### Texto a Morse:
+Entrada:
+Hello World
+Salida:
+.... . .-.. .-.. --- / .-- --- .-. .-.. -..
+
+#### Morse a Texto:
+Entrada:
+.... . .-.. .-.. --- / .-- --- .-. .-.. -..
+Salida:
+hello world
+
+---
+
+## Caracteres soportados
+
+### Texto a Morse:
+- Letras: A-Z (sin distinción entre mayúsculas y minúsculas)
+
+### Morse a Texto:
+- Todas las secuencias de código Morse soportadas.
+
+---
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! No dudes en enviar un pull request o abrir un problema para sugerir mejoras o reportar errores.
+
+---
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
